@@ -1,0 +1,8 @@
+hanges not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   backend/train_model.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\HP\Downloads\files\dukan-ai-v2\dukan-ai-v2> git push origin main --force
+Everything up-to-date
